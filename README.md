@@ -15,3 +15,4 @@
 - Data Preparation
 - Model Building
 - Model Evaluation
+- Plotting the ROC-curve
